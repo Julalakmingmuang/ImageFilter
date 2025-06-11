@@ -40,7 +40,7 @@ cd <repository-directory>
 ## Example Output
 
 ### Original vs Blurred Image
-<img src="images/Original_vs_Blurred.png" alt="Original vs Blurred" width="600"/>
+<img src="images/Original_vs_Blurred.png" alt="Original vs Blurred" width="680"/>
 
 ### Sobel Edge Detection
 <img src="images/Bird_Sobel.png" alt="Sobel Edge Detection"/>
