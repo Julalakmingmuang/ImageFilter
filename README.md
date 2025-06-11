@@ -43,7 +43,7 @@ cd <repository-directory>
 <img src="images/Original_vs_Blurred.png" alt="Original vs Blurred" width="680"/>
 
 ### Sobel Edge Detection
-<img src="images/Bird_Sobel.png" alt="Sobel Edge Detection" width="680"/>
+<img src="images/Bird_Sobel.png" alt="Sobel Edge Detection" width="800"/>
 
 ### Canny Edge Detection
 <img src="images/Bird_canny.png" alt="Canny Edge Detection" width="450"/>
