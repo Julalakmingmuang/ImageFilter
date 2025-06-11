@@ -40,16 +40,16 @@ cd <repository-directory>
 ## Example Output
 
 ### Original vs Blurred Image
-![Original vs Blurred](images/Original_vs_Blurred.png)
+<img src="images/Original_vs_Blurred.png" alt="Original vs Blurred" width="450"/>
 
 ### Sobel Edge Detection
-<img src="images/Bird_Sobel.png" alt="Sobel Edge Detection" width="400"/>
+<img src="images/Bird_Sobel.png" alt="Sobel Edge Detection"/>
 
 ### Canny Edge Detection
-<img src="images/Bird_canny.png" alt="Canny Edge Detection" width="400"/>
+<img src="images/Bird_canny.png" alt="Canny Edge Detection" width="450"/>
 
 ### Output Grayscale Filtering
-<img src="images/Bird_output.png" alt="Output Grayscale Filtering" width="400"/>
+<img src="images/Bird_output.png" alt="Output Grayscale Filtering" width="450"/>
 
 ## Notes
 
